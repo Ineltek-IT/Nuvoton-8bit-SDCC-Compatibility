@@ -1,5 +1,5 @@
 # Nuvoton-8bit-SDCC
-Nuvoton 8bit SDCC BSP
+Nuvoton 8bit SDCC BSP. The layout of this repo follows (Open Nuvoton Keil MS51 BSP)[https://github.com/OpenNuvoton/MS51BSP_KEIL]
 
 
 This is a work in progress. Right now the two "template" examples in the 16bit and 32bit folder compile and run.
